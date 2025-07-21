@@ -1,4 +1,4 @@
-# 🚀 CodeCrack
+# 🚀 CodeMsti
 ### *The Ultimate Coding Platform for Developers*
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 **What Makes CodeCrack Special?**
+## 🌟 **What Makes CodeMasti Special?**
 
 CodeCrack isn't just another coding platform – it's your complete companion for programming excellence. Whether you're a beginner taking your first steps or a seasoned developer preparing for FAANG interviews, CodeCrack provides everything you need to succeed.
 
